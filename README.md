@@ -16,3 +16,4 @@ A number of possible causes are collected from online comments:
 # Process of finding/eliminating possible causes
 - [ ] Opening up engine up to the CHG (can eliminate the cause of CHG leak)
 - [ ] Opening up oil filter housing (can eliminate OFHG leak)
+- [ ] Pulling the cats/ down pipes and see if the turbos are wet inside (can eliminate turbo seals)
