@@ -18,3 +18,6 @@ A number of possible causes are collected from online comments:
 - [ ] Opening up oil filter housing (can eliminate OFHG leak)
   - [ ] Need to first [remove the intake manifold](https://www.youtube.com/watch?v=Kn6NVHLy-Xc)
 - [ ] [Pulling the cats/ down pipes](https://www.e90post.com/forums/showthread.php?s=be053c282e0daa0ad45c68822f1ccb0a&t=1527240&page=2) and see if the turbos are wet inside (can eliminate turbo seals)
+
+# Log of performed steps
+1. 09.28 Removing intake manifold
