@@ -12,6 +12,8 @@ A number of possible causes are collected from online comments:
 2. Oil filter housing gasket (OFHG) leak
 3. Injector(s) failure
 4. Turbo seals
+5. Positive Crankcase Valve (PCV) stuck
+6. Valve cover gasket (VCG) leak
 
 # Process of finding/eliminating possible causes
 - [ ] Opening up engine up to the CHG (can eliminate the cause of CHG leak)
@@ -20,4 +22,4 @@ A number of possible causes are collected from online comments:
 - [ ] [Pulling the cats/ down pipes](https://www.e90post.com/forums/showthread.php?s=be053c282e0daa0ad45c68822f1ccb0a&t=1527240&page=2) and see if the turbos are wet inside (can eliminate turbo seals)
 
 # Log of performed steps
-1. 09.28 Removing intake manifold
+1. 09.28 Removed intake manifold and OFH, the OFHG seems intact.
